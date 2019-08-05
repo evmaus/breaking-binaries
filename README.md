@@ -2,7 +2,7 @@
 
 "Breaking Binaries" is an IN PROGRESS series of labs and materials (perhaps even something that could be described as "a class"!) intended to walk interested students through native software exploitation, starting with the basics and moving to creating exploits for real CVEs.  It's under development by [Everett Maus](https://twitter.com/everettmaus).
 
-## Honor Code/Disclaimer
+## Honor Code/Disclaimers
 
 First off:  This is not an officially supported Google product.
 
