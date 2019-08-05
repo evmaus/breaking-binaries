@@ -4,6 +4,8 @@
 
 ## Honor Code/Disclaimer
 
+First off:  This is not an officially supported Google product.
+
 Please use what you learn here to improve software you write, or improve other people's software by reporting bugs.  These techniques are double edged--knowing them could allow you to write harmful malware or break other user's computers.  This material is presented without judgment for how you choose to use it--follow your own moral compass--but also with the understanding that you'll take responsibility for your actions.
 
 The code in this repository is explicity written to be vulnerable to various exploitation techniques.  This should seem obvious, but do not use the code patterns here in anything that matters.
