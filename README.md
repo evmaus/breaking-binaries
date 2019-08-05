@@ -1,6 +1,6 @@
 # Introduction
 
-"Exploit School" is an IN PROGRESS series of labs and materials (perhaps even something that could be described as "a class"!) intended to walk interested students through native software exploitation, starting with the basics and moving to creating exploits for real CVEs.  It's under development by [Everett Maus](https://twitter.com/everettmaus).
+"Breaking Binaries" is an IN PROGRESS series of labs and materials (perhaps even something that could be described as "a class"!) intended to walk interested students through native software exploitation, starting with the basics and moving to creating exploits for real CVEs.  It's under development by [Everett Maus](https://twitter.com/everettmaus).
 
 ## Honor Code/Disclaimer
 
@@ -14,9 +14,9 @@ It would be helpful to have a basic understanding of C/C++ and x86/x86_64 assemb
 
 ## Getting Started
 
-Step 1:  Wait for more content.  Let's be real with each other--this course is in development.
+Step 1:  Wait for more content.  Let's be real with each other--this course is in development.  Once the first few labs are done it'll be in a much better place to start.
 
-Step 2:  Clone the repository and go to Basics and read Getting Started.md there.
+Step 2:  Clone the repository, and go to Basics and read Getting Started.md there.
 
 ## Course Structure
 
@@ -24,10 +24,10 @@ IN PROGRESS.  The labs in "Basics" are under construction.  See the Basics TODO 
 
 As far as class structure, you'll want to start with the "Basics" section, before moving to "Mitigations", then the "More advanced" section, and finally "Modern Exploits".
 
-The "Basics" section is roughly 15% done. (In progress/started)  The goal of the basics section is to walk you through the basics of exploitable bugs in C/C++.
-The "Mitigations" section is roughly 0% done.  The goal of the Mitigations section is to walk you through basic binary level mitigations that impede the exploitation techniques in the "Basics" section.
-The "More Advanced" section is roughly 0% done.  The goal of this section is to walk you through getting around the 
-The "Modern Exploits" section is roughly 0% done.
+The "Basics" section is roughly 10% done. (In progress/started)  The goal of the basics section is to walk you through the basics of exploitable bugs in C/C++.
+The "Mitigations" section is roughly 0% done. (Not started) The goal of the Mitigations section is to walk you through basic binary level mitigations that impede the exploitation techniques in the "Basics" section.
+The "More Advanced" section is roughly 0% done. (Not Started) The goal of this section is to walk you through getting around the 
+The "Modern Exploits" section is roughly 0% done. (Not started)
 
 ## Licensing
 
