@@ -33,7 +33,7 @@ The "Modern Exploits" section is roughly 0% done. (Not started)
 
 ## Licensing
 
-All code and code samples are licensed under the APACHE 2.0 License, which can be found in the root of the repository as "CODE_LICENSE".
+All code and code samples are licensed under the APACHE 2.0 License, which can be found in the root of the repository as "LICENSE".
 All other course materials (readings, slides, images, etc.) are licensed under the CC-BY 4.0 License, which can also be found in the root of the repository, as "CONTENT_LICENSE".
 
 ## Build and Test
