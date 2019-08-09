@@ -27,9 +27,12 @@ IN PROGRESS.  The labs in "Basics" are under construction.  See the Basics TODO 
 As far as class structure, you'll want to start with the "Basics" section, before moving to "Mitigations", then the "More advanced" section, and finally "Modern Exploits".
 
 The "Basics" section is roughly 10% done. (In progress/started)  The goal of the basics section is to walk you through the basics of exploitable bugs in C/C++.
+
 The "Mitigations" section is roughly 0% done. (Not started) The goal of the Mitigations section is to walk you through basic binary level mitigations that impede the exploitation techniques in the "Basics" section.
-The "More Advanced" section is roughly 0% done. (Not Started) The goal of this section is to walk you through getting around the 
-The "Modern Exploits" section is roughly 0% done. (Not started)
+
+The "More Advanced" section is roughly 0% done. (Not Started) The goal of this section is to walk you through getting around the mitigations in the Mitigations section.
+
+The "Modern Exploits" section is roughly 0% done. (Not started)  The goal of this section is to cover advanced topics, like building an exploit from a CVE, fuzzing, etc.
 
 ## Licensing
 
